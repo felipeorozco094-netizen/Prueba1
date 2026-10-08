@@ -1,0 +1,42 @@
+body{
+    background-color: #2C2C2C;
+    color:#C9A227;
+    padding: 10px 150px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.titulo{
+    width: 40%;
+    text-align: center;
+    background-color: rgba( 200, 200, 200, 0.5);
+    margin: 10px 350px;
+   
+
+}
+.entradas{
+   padding: 50px;
+    margin-top: 15px;
+    background-color: rgba( 200, 200, 200, 0.5);
+    
+    border: 10px solid;
+    border-color:darkgray;
+}
+.Platos_principales{
+    padding: 50px;
+    margin-top: 15px;
+    background-color: rgba( 200, 200, 200, 0.5);
+     border: 10px solid;
+    border-color:darkgray;
+
+}
+.Postres{
+    padding: 50px;
+    margin-top: 15px;
+    background-color: rgba( 200, 200, 200, 0.5);
+     border: 10px solid;
+    border-color:darkgray;
+}
+
+span{
+    color:#2C2C2C;
+    background-color: rgba( 200, 200, 200, 0.5);
+}
