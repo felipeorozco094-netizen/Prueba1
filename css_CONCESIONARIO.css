@@ -1,0 +1,90 @@
+.encabezado {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color:#1C1C1C;
+    padding: 15px 30px;
+}
+
+.titulo1 {
+    color: white;
+    margin: 0;
+}
+
+.imagen {
+    width: 100px;
+    
+}
+
+.enlaces ul {
+    display: flex;
+    list-style: none;
+    gap: 30px;
+    margin: 0;
+    padding: 0;
+}
+
+.enlaces a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.enlaces a:hover {
+    color: #00bfff;
+    display: block;
+    align-items: end;
+    position: relative;
+    
+}
+
+.izq{
+    justify-content: left;
+}
+
+body{
+    background-color: #2C2C2C;
+    color:black;
+    padding: 10px 150px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.entradas{
+   padding: 50px;
+    margin-top: 15px;
+    background-color: rgba( 200, 200, 200, 0.5);
+    
+    border: 10px solid;
+    border-color:darkgray;
+}
+.Platos_principales{
+    padding: 50px;
+    margin-top: 15px;
+    background-color: rgba( 200, 200, 200, 0.5);
+     border: 10px solid;
+    border-color:darkgray;
+
+}
+.Postres{
+    padding: 50px;
+    margin-top: 15px;
+    background-color: rgba( 200, 200, 200, 0.5);
+     border: 10px solid;
+    border-color:darkgray;
+}
+
+span{
+    color:#2C2C2C;
+    background-color: rgba( 200, 200, 200, 0.5);
+}
+.footer{
+    padding: 40%;
+    margin-top: 40%;
+    background-color: rgba( 200, 200, 200, 0.5);
+     border: 50px solid;
+    border-color:darkgray;
+}
+
+.imagencars{
+    width: 500px;
+}
